@@ -1,3 +1,4 @@
+![logo](https://github.com/TanishRj/TanishRj/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Tanish Choudhary</h1>
 <h3 align="center">A passionate web developer and Hacker from India</h3>
 
