@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishrj&label=Profile%20views&color=0e75b6&style=flat" alt="tanishrj" /> </p>
 
-- 📫 How to reach me **weboweb21@gmail.com**
+- 📫 How to reach me **cobrazxfr75@gmail.com**
 
 - ⚡ Fun fact **I am Funny 😅**
 
