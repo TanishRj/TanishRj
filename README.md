@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tanish Choudhary</h1>
 <h3 align="center">A passionate web developer and Hacker from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1740508693~exp=1740512293~hmac=eb882042cf85fb5145f608b49c6fc7084db390fa5995dc7523b076eb7b999827&w=900)">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1740508693~exp=1740512293~hmac=eb882042cf85fb5145f608b49c6fc7084db390fa5995dc7523b076eb7b999827&w=900">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishrj&label=Profile%20views&color=0e75b6&style=flat" alt="tanishrj" /> </p>
 
