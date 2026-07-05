@@ -5,7 +5,7 @@
 
 - 👨‍💻 My TryHackMe Profile [https://tryhackme.com/p/TANISHRJ](https://tryhackme.com/p/TANISHRJ)
 
-- 📝 I regularly solve CTF rooms on [www.tryhackme.com](www.tryhackme.com) and [https://www.hackthebox.com/].(https://www.hackthebox.com/).
+- 📝 I regularly solve CTF rooms on [www.tryhackme.com](www.tryhackme.com) and [https://www.hackthebox.com/](https://www.hackthebox.com/).
 
 - 💬 Ask me about **Cybersecurity**
 
