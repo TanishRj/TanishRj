@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tanish Choudhary</h1>
 <h3 align="center">Penetration Tester and Ethical Hacker</h3>
 
-- 🔭 I’m currently working on **MAC Changer**
-
-- 🌱 I’m currently learning **Red Teaming**
-
 - 👯 I’m looking to collaborate on **Cybersecurity Projects**
-
-- 🤝 I’m looking for help with **Penetration Testing**
 
 - 👨‍💻 My TryHackMe Profile [https://tryhackme.com/p/TANISHRJ](https://tryhackme.com/p/TANISHRJ)
 
-- 📝 I regularly solve CTF rooms on [www.tryhackme.com](www.tryhackme.com)
+- 📝 I regularly solve CTF rooms on [www.tryhackme.com](www.tryhackme.com) and [https://www.hackthebox.com/].(https://www.hackthebox.com/).
 
 - 💬 Ask me about **Cybersecurity**
 
-- 📫 How to reach me **tanishch21@gmail.com**
+- 📫 How to reach me **cybersectanishchoudhary@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
